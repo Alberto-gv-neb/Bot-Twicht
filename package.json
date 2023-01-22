@@ -1,0 +1,25 @@
+{
+  "name": "bot-twicht",
+  "version": "1.0.0",
+  "description": "jjfjdjdj",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alberto-gv-neb/Bot-Twicht.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alberto-gv-neb/Bot-Twicht/issues"
+  },
+  "homepage": "https://github.com/Alberto-gv-neb/Bot-Twicht#readme",
+  "dependencies": {
+    "docenv": "^2.0.6",
+    "dotenv": "^16.0.3",
+    "tmi.js": "^1.8.5"
+  }
+}
